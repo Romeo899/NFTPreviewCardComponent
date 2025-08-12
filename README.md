@@ -30,9 +30,9 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
-- Live Site URL: [NFT Preview Card Component by Romeo Codes](hhttps://nftpreviewcardcomponentrc.netlify.app/)
+- Live Site URL: [NFT Preview Card Component by Romeo Codes](https://nftpreviewcardcomponentrc.netlify.app/)
 
-### Built with
+### Built with:
 
 - Semantic HTML5 markup
 - CSS custom properties
