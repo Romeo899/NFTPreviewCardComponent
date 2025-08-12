@@ -29,7 +29,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-_Yox_Az_bO)
 - Live Site URL: [NFT Preview Card Component by Romeo Codes](https://nftpreviewcardcomponentrc.netlify.app/)
 
 ### Built with:
